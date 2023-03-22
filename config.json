@@ -1,0 +1,29 @@
+{
+    "ownerNumber": ["6283121562064@s.whatsapp.net","62895336008585@s.whatsapp.net"],
+    "ownerName": "AgatZ",
+    "instagram" : "https://instagram.com/agatdwi_subakti",
+    "gcwa" : "https://s.id/GRUPBOTAGAT",
+    "botName": "AgatZBOT ",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "Biqudjsh",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 100,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
